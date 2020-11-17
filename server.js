@@ -17,9 +17,11 @@ app.use(express.static("public"));
 if (process.env.NODE_ENV === "production") {
   app.use(express.static("client/build"));
 }
-// connecting to mongo and added code to avoid dep warnings 
+// connecting to mongo and added code to avoid dep warnings and link to env variable in mongo
 mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/budget", {
   useNewUrlParser: true,
+  useUnifiedTopology: true,
+  useCreateIndex: true,
   useFindAndModify: false
 });
 
