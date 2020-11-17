@@ -7,6 +7,8 @@
   * [ Installation ](#installation)
   * [ GitHub Repo Link](#github-repo-link)
   * [ Screenshot ](#screenshot)
+  * [ Contributors](#contributors)
+
 
   
 ### Description
@@ -26,3 +28,6 @@ https://github.com/sarahlcox/budget-tracker
 
 ### Screenshot
 ![Screen Shot 2020-11-17 at 5 33 53 PM (2)](https://user-images.githubusercontent.com/71027264/99463395-408fcb80-28fb-11eb-9c4e-ad5546062999.png)
+
+### Contributors
+I worked on this assignment with Elizabeth Reuter
