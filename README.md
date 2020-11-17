@@ -6,7 +6,7 @@
   * [ Technology ](#technology)
   * [ Installation ](#installation)
   * [ GitHub Repo Link](#github-repo-link)
-  * [ Screenshots ](#screenshots)
+  * [ Screenshot ](#screenshot)
 
   
 ### Description
@@ -24,4 +24,5 @@ Deployed using Heroku: https://stark-chamber-80263.herokuapp.com/
 ### GitHub Repo Link
 https://github.com/sarahlcox/budget-tracker
 
-### Screenshots
+### Screenshot
+![Screen Shot 2020-11-17 at 5 33 53 PM (2)](https://user-images.githubusercontent.com/71027264/99463395-408fcb80-28fb-11eb-9c4e-ad5546062999.png)
